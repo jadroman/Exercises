@@ -7,6 +7,10 @@ using System.Threading.Tasks;
 
 namespace Exercises
 {
+
+    /// <summary>
+    /// How to use: anonimous method, lambda expression, built-in delegate 'action', built-in delegate 'Func', c# exression
+    /// </summary>
     public class Expressions
     {
         delegate void TestDelegate(string s);

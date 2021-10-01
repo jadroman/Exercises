@@ -1,5 +1,5 @@
 ﻿using Chess;
-using Chess.Model;
+
 using Exercises;
 using System;
 using System.Collections.Generic;
@@ -12,6 +12,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Pawn pawn1 = new Pawn();
+            Knight knight1 = new Knight();
+
+            
         }
 
     }
